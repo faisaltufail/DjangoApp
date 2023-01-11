@@ -1,0 +1,3 @@
+[submodule "DjangoApp"]
+	path = DjangoApp
+	url = https://github.com/faisaltufail/DjangoApp.git
